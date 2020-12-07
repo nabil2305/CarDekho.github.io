@@ -1,0 +1,76 @@
+[
+    {
+        "car_name":"Mazda",
+        "model" : "M1",
+        "price" : 3400000,
+        "type":"petrol",
+        "desc":"4 years old",
+        "image_url" :"https://images.unsplash.com/photo-1514316703755-dca7d7d9d882?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "car_name":"Honda",
+        "model" : "M2",
+        "type":"petrol",
+        "desc":"5 years old",
+        "price" : 4000000,
+        "image_url" : "https://images.unsplash.com/photo-1546110975-1039aa313845?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "car_name":"Tata",
+        "model" : "M3",
+        "type":"diesel",
+        "desc":"6 years old",
+        "price" : 5000000,
+        "image_url" : "https://images.unsplash.com/photo-1546614042-7df3c24c9e5d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "car_name":"Ferrari",
+        "model" : "M10",
+        "type":"diesel",
+        "desc":"1 years old",
+        "price" : 9600000,
+        "image_url" : "https://images.unsplash.com/photo-1489686995744-f47e995ffe61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "car_name":"Jaguar",
+        "model" : "M4",
+        "type":"diesel",
+        "desc":"7 years old",
+        "price" : 6000000,
+        "image_url" : "https://images.unsplash.com/photo-1547038577-da80abbc4f19?ixlib=rb-1.2.1&auto=format&fit=crop&w=951&q=80"
+    },
+    {
+        "car_name":"Renault",
+        "model" : "M6",
+        "type":"petrol",
+        "desc":"9 years old",
+        "price" : 8800000,
+        "image_url" : "https://images.unsplash.com/photo-1514867644123-6385d58d3cd4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "car_name":"Martin",
+        "model" : "M7",
+        "type":"diesel",
+        "desc":"7 years old",
+        "price" : 6800000,
+        "image_url" : "https://images.unsplash.com/photo-1565793979206-10951493332d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "car_name":"Mustang",
+        "model" : "M8",
+        "type":"diesel",
+        "desc":"10 years old",
+        "price" : 8000000,
+        "image_url" : "https://images.unsplash.com/photo-1591293836027-e05b48473b67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "car_name":"Hyundai",
+        "model" : "M9",
+        "type":"diesel",
+        "desc":"8 years old",
+        "price" : 7000000,
+        "image_url" : "https://images.unsplash.com/photo-1490641815614-b45106d6dd04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    }
+
+    
+]
